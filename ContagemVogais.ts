@@ -1,5 +1,11 @@
-const frase: string = "Luiz Henrique";
+const frase : string = "Luiz Henrique"
+const vogais = /[aeiou]/i;
+let count = 0
 
-const contagemVogaisSemEspaco = frase.split("");
+for (var i = 0; i < frase.length; i++) {
+    if (frase[i].match(vogais)){
+        count++;
+    }
+}
 
-console.log(contagemVogaisSemEspaco);
+console.log("o número de vogais na frase é: " + count);
