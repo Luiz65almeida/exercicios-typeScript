@@ -5,7 +5,7 @@ Lógica de Programação - Prática
 4.Desenvolva um código que determine se um número é par ou ímpar. (Feito)
 5.Implemente um algoritmo que conte quantas vogais existem em uma string.(Feito)
 6.Escreva um programa que encontre o maior número em um array. (Feito)
-7.Crie uma função que verifique se um número é primo.
+7.Crie uma função que verifique se um número é primo. (Feito)
 8.Desenvolva um código que gere a sequência de Fibonacci até o 10º termo.
 9.Escreva um algoritmo que remova todos os espaços de uma string.
 10.Crie um programa que verifique se uma palavra é um palíndromo.

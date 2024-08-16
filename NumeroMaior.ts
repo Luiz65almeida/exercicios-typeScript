@@ -1,5 +1,5 @@
-const x: number = 10;
-const y: number = 10;
+const x: number = 8;
+const y: number = 8;
 
 if (x > y){
     console.log("X é maior que Y");
